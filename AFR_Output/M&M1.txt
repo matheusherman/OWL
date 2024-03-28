@@ -1,0 +1,4 @@
+Part name: M&M1
+Part thickness is: 1.60029 mm
+
+web (ID: 1; Position point:(0,-733.416,0); Position normal:(0.025,-0.974,0.225))
